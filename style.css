@@ -3,8 +3,22 @@
 html{
   font-size: 100%;
 }
+
 body{
-  background-color: #dff2c9;
-  {
+  background-color: #dff0dd;
+  font-family: "ヒラギノ角ゴ ProN W3",HiraKaKuProN-W3,游ゴシック,"YuGothic",メイリオ,Meiryo,Verdana,Helvetica,Arial,sans-serif;
+}
+
+
+.st1{
+  font-size:110%
+}
+
+.st2{
+  font-size:120%;
+  background:linear-gradient(transparent 70%, #FFFF00 0%);
+}
+
+
 
 
